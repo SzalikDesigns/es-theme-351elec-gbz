@@ -5,7 +5,7 @@
 
     <view name="system, basic, detailed, video">
 		<image name="logo">
-			<path>./system.svg</path>
+			<path>./system.png</path>
 		</image>
 	        <image name="background_pattern" extra="true">
 			<path>./background.png</path>
@@ -16,7 +16,7 @@
 			<tile>false</tile>
 		</image>
 		<textlist name="gamelist">
-			<selectorColor>562F0D</selectorColor>
+			<selectorColor>571C16</selectorColor>
 			<!-- RED = 571C16, ORANGE = 562F0D, GREEN = 114D2A, 
 			TURQUOISE = 0A473B, BLUE = 143952, PURPLE = 3A2144 -->
 		</textlist>

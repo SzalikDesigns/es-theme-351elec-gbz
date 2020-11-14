@@ -1,11 +1,9 @@
 <!--
-theme name:     Gameboy Zero 3.5"
-version:        1.14
-author:         Brad Miller
-email:          brad@rxbrad.com
-website:        RxBrad.com
+theme name:     RK3326 Zero 3.5
+version:        1.0
+author:         tiduscrying
 license:        creative commons CC BY-NC-SA - https://creativecommons.org/licenses/by-nc-sa/3.0/
-based on:       "Carbon" by Rookervik, "Spare" by Matt Kennedy, and "SimpleBigArt" by Ewzzy
+based on:       "GBZ 3.5" by Brad Miller, "Carbon" by Rookervik, "Spare" by Matt Kennedy, and "SimpleBigArt" by Ewzzy
 -->
 
 <theme>
@@ -24,7 +22,7 @@ based on:       "Carbon" by Rookervik, "Spare" by Matt Kennedy, and "SimpleBigAr
 				<backgroundColor>FFFFFF99</backgroundColor>
 				<color>000000</color>
 				<fontPath>./_inc/fonts/RobotoCondensed-Regular.ttf</fontPath>
-				<fontSize>0.05</fontSize>
+				<fontSize>0.035</fontSize>
 			</text>
 		</view>
 	</feature>
@@ -56,7 +54,7 @@ based on:       "Carbon" by Rookervik, "Spare" by Matt Kennedy, and "SimpleBigAr
 			<textColor>000000</textColor>
 			<iconColor>000000</iconColor>
 			<fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
-			<fontSize>0.04</fontSize>
+			<fontSize>0.029</fontSize>
 		</helpsystem>
 	</view>
     
@@ -94,7 +92,7 @@ based on:       "Carbon" by Rookervik, "Spare" by Matt Kennedy, and "SimpleBigAr
 			<fontPath>./_inc/fonts/RobotoCondensed-Regular.ttf</fontPath>
 			<pos>0.03 0.19</pos>
 			<size>0.937 0.69</size>
-			<fontSize>0.06</fontSize>
+			<fontSize>0.035</fontSize>
 			<lineSpacing>1.40</lineSpacing>
 		</textlist>
 	</view>
@@ -176,7 +174,7 @@ based on:       "Carbon" by Rookervik, "Spare" by Matt Kennedy, and "SimpleBigAr
 		<fontPath>./_inc/fonts/RobotoCondensed-Regular.ttf</fontPath>
 		<pos>0.39 0.03</pos>
 		<size>0.577 0.86</size>
-		<fontSize>0.055</fontSize>
+		<fontSize>0.035</fontSize>
 		<lineSpacing>1.50</lineSpacing>
 		<horizontalMargin>0.01</horizontalMargin>
 	</textlist>
