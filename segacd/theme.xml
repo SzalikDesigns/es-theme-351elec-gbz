@@ -1,11 +1,11 @@
 <theme>
 
-    <formatVersion>4</formatVersion>
+    <formatVersion>7</formatVersion>
     <include>./../gbz35.xml</include>
 
     <view name="system, basic, detailed, video">
 		<image name="logo">
-			<path>./system.svg</path>
+			<path>./system.png</path>
 		</image>
 		<image name="background_pattern" extra="true">
 			<path>./background.png</path>
@@ -16,7 +16,7 @@
 			<tile>false</tile>
 		</image>
 		<textlist name="gamelist">
-			<selectorColor>114D2A</selectorColor>
+			<selectorColor>0A473B</selectorColor>
 			<!-- RED = 571C16, ORANGE = 562F0D, GREEN = 114D2A, 
 			TURQUOISE = 0A473B, BLUE = 143952, PURPLE = 3A2144 -->
 		</textlist>
