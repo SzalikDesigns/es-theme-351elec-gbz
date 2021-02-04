@@ -9,7 +9,7 @@ based on:       "GBZ 3.5" by Brad Miller, "Carbon" by Rookervik, "Spare" by Matt
 
 <theme>
 
-    <formatVersion>4</formatVersion>
+    <formatVersion>7</formatVersion>
 	
 	<feature supported="carousel">
 		<view name="system">
