@@ -54,7 +54,6 @@ based on:       "GBZ 3.5" by Brad Miller, "Carbon" by Rookervik, "Spare" by Matt
 			<textColor>000000</textColor>
 			<iconColor>000000</iconColor>
 			<fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
-			<fontSize>0.029</fontSize>
 		</helpsystem>
 	</view>
     
@@ -217,5 +216,24 @@ based on:       "GBZ 3.5" by Brad Miller, "Carbon" by Rookervik, "Spare" by Matt
 	</datetime> 
 	
 	</view>
+	
+	<view name="menu">
+	
+    <menuBackground name="menubg">
+      <color>ffffff</color>
+    </menuBackground>
+	
+	<menuText name="menutext, menutitle">
+      <fontPath>./_inc/fonts/RobotoCondensed-Regular.ttf</fontPath>
+      <fontSize>.039</fontSize>
+      <color>000000</color> 
+    </menuText>
+	
+	<menuText name="menufooter, menutextsmall">
+      <fontPath>./_inc/fonts/RobotoCondensed-Regular.ttf</fontPath>
+      <fontSize>.029</fontSize>		 
+      <color>000000</color>
+    </menuText>
+    </view>
 
 </theme>
