@@ -8,10 +8,8 @@ based on:       "GBZ 3.5" by Brad Miller, "Carbon" by Rookervik, "Spare" by Matt
 -->
 
 <theme>
-
     <formatVersion>7</formatVersion>
 	
-
     <view name="system">
 		<helpsystem name="help">
 			<fontSize>0.031</fontSize>

@@ -7,22 +7,16 @@ based on:       "GBZ 3.5" by Brad Miller, "Carbon" by Rookervik, "Spare" by Matt
 -->
 
 <theme>
+	<formatVersion>7</formatVersion>
 
-<formatVersion>7</formatVersion>
-	
-<variables>
-        <fullscreenfixSubsetname>Choose Emulationstation That's In Use</fullscreenfixSubsetname>
+	<variables>
 		<subset.colorset>Theme Color</subset.colorset>
-</variables>
+	</variables>
 
-<subset name="fullscreenfix" displayName="${fullscreenfixSubsetname}">
-        <include name="ES Header" displayName="${ES Header}">./header.xml</include>
-        <include name="ES Fullscreen" displayName="${ES Fullscreen}">./fullscreen.xml</include>
-</subset>
+	<include name="ES Fullscreen" displayName="${ES Fullscreen}">./fullscreen.xml</include>
 
-<subset name="colorset" displayName="${subset.colorset}">
-        <include name="light" displayName="${light}">./light.xml</include>
+	<subset name="colorset" displayName="${subset.colorset}">
 		<include name="dark" displayName="${dark}">./dark.xml</include>
-</subset>
-
+		<include name="light" displayName="${light}">./light.xml</include>
+	</subset>
 </theme>

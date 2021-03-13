@@ -15,8 +15,8 @@ based on:       "GBZ 3.5" by Brad Miller, "Carbon" by Rookervik, "Spare" by Matt
 		<view name="system">
 			<carousel name="systemcarousel">
 				<color>000000cc</color>
-				<logoSize>0.22 0.115</logoSize>
-				<logoScale>1.7</logoScale>
+				<logoSize>0.20 0.20</logoSize>
+				<logoScale>1.0</logoScale>
 			</carousel>
 			
 			<text name="logoText">
@@ -49,7 +49,7 @@ based on:       "GBZ 3.5" by Brad Miller, "Carbon" by Rookervik, "Spare" by Matt
 			<color>aeaeae</color>
 			<tile>true</tile>
 		</image>
-		<image name="background_help" extra="true">
+		<image name="background_help" extra="false">
 			<path>./_inc/images/bg_color.png</path>
 			<origin>0 1</origin>
 			<pos>0 1</pos>
