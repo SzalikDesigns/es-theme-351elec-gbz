@@ -8,6 +8,7 @@
 
 Theme edited and adapted by szalik for rg351p/m 351ELEC community.
 
+---
 
 ###  Theme Description from Fork
 
@@ -17,6 +18,10 @@ This theme pulls heavily from the [Carbon](https://github.com/RetroPie/es-theme-
 
 Extra credits: rxbrad, jetup13
 
+---
+
 ###  LOGO NOTICE
 
 The used logos and trademarks are copyright of their respective owners.
+
+---
