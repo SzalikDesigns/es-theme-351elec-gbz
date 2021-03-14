@@ -6,7 +6,7 @@
 ██████╔╝██████╔╝███████╗███████╗███████╗███████╗╚█████╔╝
 ╚═════╝░╚═════╝░╚══════╝╚══════╝╚══════╝╚══════╝░╚════╝░
 
-Theme edited and adapted by szalik for rg351p/m 351ELEC community.
+Theme edited and adapted by Szalik for rg351p/m 351ELEC community.
 
 ---
 
